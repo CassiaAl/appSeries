@@ -4,7 +4,7 @@
 
 Algoritmo simples de cadastro de séries com orientação a objetos, o principal paradigma de programação utilizada no mercado. Pensar orientado a objetos, modelar domínio e utilizar recursos de coleção.
 
-### Acrescentanfo refatoração;
+### Acrescentando refatoração;
 
 ### Confirmações para usuário;
 
